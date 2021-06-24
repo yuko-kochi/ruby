@@ -1,0 +1,3 @@
+name = "コウチユウコ"
+puts name
+
